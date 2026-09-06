@@ -1,1 +1,8 @@
-{ "minCliVersion": "2.0.0" }
+{
+  "minCliVersion": "8.3.0",
+  "orchestrator": {
+    "name": "docs-system-orchestrator",
+    "appliesWhen": "the session starts with a request to create, improve, initialize, format, or maintain project documentation, documentation templates, or standalone architecture diagrams",
+    "terminatesTo": "none"
+  }
+}

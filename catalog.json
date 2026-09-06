@@ -1,6 +1,6 @@
 {
   "version": 1,
   "bundles": [
-    { "name": "docs", "source": "./bundles/docs", "version": "1.0.0", "scope": "project" }
+    { "name": "docs", "source": "./bundles/docs", "version": "1.1.0", "scope": "project" }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "docs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Documentación con estándar Docs-as-Code.",
   "scope": "project",
   "dependsOn": ["dev"],
