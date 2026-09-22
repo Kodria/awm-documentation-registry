@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 3,
+  "mode": "opt-out",
+  "reason": "content-only registry; no project-executable sensor pack applies"
+}
